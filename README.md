@@ -5,4 +5,7 @@ Are you still worried about what you forgot to do?Are you still worrying about n
 -Check the current time, add reminders, and there will be a reminder
 -Stopwatch function, record seconds
 -Timer, countdown tool
-
+ ![image](https://github.com/neozzx/AiGuoClock/raw/master/AiGuoClock/AiGuoClock/1.png)
+ ![image](https://github.com/neozzx/AiGuoClock/raw/master/AiGuoClock/AiGuoClock/2.png)
+ ![image](https://github.com/neozzx/AiGuoClock/raw/master/AiGuoClock/AiGuoClock/3.png)
+ ![image](https://github.com/neozzx/AiGuoClock/raw/master/AiGuoClock/AiGuoClock/4.png)
